@@ -1,4 +1,5 @@
 flask
-google-generativeai 
+google-generativeai
 gunicorn
 pysqlite3
+wikipedia
